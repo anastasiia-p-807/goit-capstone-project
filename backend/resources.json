@@ -1,0 +1,51 @@
+[
+  {
+    "id": "who-stress",
+    "title": "Doing What Matters in Times of Stress",
+    "author": "World Health Organization",
+    "kind": "Illustrated guide",
+    "description": "An illustrated introduction to grounding, values, and responding to difficult thoughts.",
+    "topics": [
+      "stress"
+    ],
+    "url": "https://www.who.int/publications/i/item/9789240003927",
+    "color": "sage"
+  },
+  {
+    "id": "cci-compassion",
+    "title": "Building Self-Compassion",
+    "author": "Centre for Clinical Interventions",
+    "kind": "Workbook",
+    "description": "A series of modules exploring self-criticism and a kinder relationship with yourself.",
+    "topics": [
+      "self-compassion"
+    ],
+    "url": "https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Self-Compassion",
+    "color": "rose"
+  },
+  {
+    "id": "cci-worry",
+    "title": "Worry and Rumination",
+    "author": "Centre for Clinical Interventions",
+    "kind": "Self-help resources",
+    "description": "Information sheets and exercises about worry, repetitive thinking, and attention.",
+    "topics": [
+      "worry",
+      "stress"
+    ],
+    "url": "https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Worry-and-Rumination",
+    "color": "sand"
+  },
+  {
+    "id": "nhs-sleep",
+    "title": "Sleep Problems",
+    "author": "NHS · Every Mind Matters",
+    "kind": "Practical guide",
+    "description": "An introduction to sleep difficulties, bedtime habits, and further support.",
+    "topics": [
+      "sleep"
+    ],
+    "url": "https://www.nhs.uk/every-mind-matters/mental-health-issues/sleep/",
+    "color": "blue"
+  }
+]
